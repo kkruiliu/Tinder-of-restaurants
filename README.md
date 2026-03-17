@@ -9,7 +9,7 @@ Instead of directly open the files we submitted, you can clone the whole project
 https://github.com/kkruiliu/Tinder-of-restaurants
 
      b.SSL
-As what we have to deal with in the project 1 of Distributed Systems, there’s a high chance you might run into a SSL verification problem: (something like this) 
+There’s a high chance you might run into a SSL verification problem: (something like this) 
 
 urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>
 IF you are using a  macOS (perfered), simply run the following command line in terminal to avoid such problem: 
